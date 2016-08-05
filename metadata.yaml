@@ -1,0 +1,33 @@
+_repo: The-White-Feather_6927
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Wodehouse, Pelham Grenville
+    - Windham, Basil
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: ''
+gutenberg_bookshelf:
+- School Stories
+- Humor
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Schools -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The White Feather
+url: http://www.gutenberg.org/ebooks/6927
